@@ -1,0 +1,5 @@
+{
+  "name": " Proxy IP Scout",
+  "description": "AI-powered proxy finder supporting Americas, Europe, and Asia with IPv4/IPv6 filtering, custom ports, and export capabilities.",
+  "requestFramePermissions": []
+}
